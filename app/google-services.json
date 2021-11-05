@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90893369305",
+    "project_id": "tdbs-8727d",
+    "storage_bucket": "tdbs-8727d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90893369305:android:7864f71366b181bd4823c8",
+        "android_client_info": {
+          "package_name": "com.example.tdbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90893369305-tpb08eq11brg4dgkm1pu2ijfkooilr5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyP2hF0M6-V8LjUJ9y56BcMNPXTf8VSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90893369305-tpb08eq11brg4dgkm1pu2ijfkooilr5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
